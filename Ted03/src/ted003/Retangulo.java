@@ -1,4 +1,4 @@
-package exercicios;
+package ted003;
 
 public class Retangulo {
 
